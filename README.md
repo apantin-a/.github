@@ -13,11 +13,10 @@ _Курсив_
 2. Элемент 2
 3. Элемент 3
 
-[ ] Задача 1
+[ ] Задача 1 
+
 [x] Задача 2
+
 [ ] Задача 3 :tada:
 
-HEX `#RRGGBB` `#0969DA`
-RGB `rgb(9, 105, 218)`
-HSL `hsl(212, 92%, 45%)`
 @octocat :+1: This PR looks great - it's ready to merge! :shipit:
