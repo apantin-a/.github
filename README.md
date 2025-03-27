@@ -17,7 +17,7 @@ _Курсив_
 [x] Задача 2
 [ ] Задача 3 :tada:
 
-HEX `#0969DA`
+HEX `#RRGGBB` `#0969DA`
 RGB `rgb(9, 105, 218)`
 HSL `hsl(212, 92%, 45%)`
 @octocat :+1: This PR looks great - it's ready to merge! :shipit:
